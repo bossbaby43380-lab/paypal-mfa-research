@@ -1,4 +1,4 @@
-# PayPal MFA Research Log
+# PayPal Research Log
 
 > Ongoing security research and authentication analysis conducted against in-scope PayPal assets under the HackerOne Bug Bounty Program.
 
